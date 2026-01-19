@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Dólar BCV",
+  "description": "Una aplicación moderna para convertir dólares a Bolívares (VES) usando la tasa oficial del BCV o una tasa personalizada.",
+  "requestFramePermissions": []
+}
