@@ -1,5 +1,5 @@
 {
-  "name": "Calculadora Dólar BCV",
-  "description": "Una aplicación moderna para convertir dólares a Bolívares (VES) usando la tasa oficial del BCV o una tasa personalizada.",
+  "name": "Dólar BCV Venezuela",
+  "description": "Calculadora inteligente con tasa oficial del Banco Central de Venezuela actualizada.",
   "requestFramePermissions": []
 }

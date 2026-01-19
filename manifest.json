@@ -1,0 +1,18 @@
+
+{
+  "name": "Calculadora Dólar BCV",
+  "short_name": "Dólar BCV",
+  "description": "Calculadora de divisas con tasa oficial de Venezuela",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2454/2454282.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
